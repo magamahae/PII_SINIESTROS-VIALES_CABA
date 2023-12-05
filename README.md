@@ -21,7 +21,7 @@
 
 <hr>
 
-## **INTRODUCCION**🚻
+# **INTRODUCCION**🚻
 
 En el presente trabajo, asumí el rol de Data Analyst con el propósito de elaborar un informe de análisis de datos solicitado por el Observatorio de Movilidad y Seguridad Vial (OMSV), adscrito a la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA).
 
@@ -39,7 +39,7 @@ La superficie de la Ciudad es algo superior a los 200 km2, se agrupa en quince c
 La ciudad proporciona una base de datos sobre accidentes viales, accesible al público que abarca los años 2016 a 2021. La cual usé para mi estudio.
 <hr>
 
-## **DESARROLLO**⛔
+# **DESARROLLO**⛔
 
 <hr>
 
@@ -58,7 +58,7 @@ La ciudad proporciona una base de datos sobre accidentes viales, accesible al p�
 
 <hr> 
 
-# ETL 🔎 - EDA 🚦
+## ETL 🔎 - EDA 🚦[Enlace] (https://github.com/magamahae/PII_SINIESTROS-VIALES_CABA/blob/main/SRC/2_EDA.ipynb)
 
 
 <hr> 
@@ -85,7 +85,7 @@ Este recorrido analítico se tradujo en una visión integral, culminando con la 
 
 
 
-## **KPI** - Indicador Clave de Rendimiento 🚗💥🏍️
+## **KPI** - Indicador Clave de Rendimiento 🚗💥🏍️ [Enlace] (https://github.com/magamahae/PII_SINIESTROS-VIALES_CABA/blob/main/SRC/4_KPI.ipynb)
 <hr>  
 
 ### - <b> <i>Reducir 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior</b></i>✔️
@@ -139,7 +139,7 @@ Este dashboard en Power BI ha sido diseñado de manera minuciosa y profesional c
 Los elementos visuales interactivos integrados en el dashboard permiten una exploración detallada de la información con tan solo un clic, ofreciendo una experiencia dinámica que facilita la comprensión de los resultados. Esta herramienta no solo condensa de manera efectiva los descubrimientos, sino que también proporciona un medio poderoso para la toma de decisiones informadas en el ámbito de la seguridad vial en la Ciudad de Buenos Aires.
 <hr>
 
-## **CONCLUSION**🚨
+# **CONCLUSION**🚨
 <hr> 
 Tras un exhaustivo análisis de datos sobre seguridad vial en la Ciudad de Buenos Aires, se han identificado patrones significativos que ofrecen una visión clara de los desafíos y áreas críticas. Con un total de <b>742 fallecidos</b> durante el periodo estudiado, es evidente la necesidad de estrategias específicas para mejorar la seguridad en las vías.
 
