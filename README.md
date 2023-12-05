@@ -178,7 +178,7 @@ Un dato relevante es la incidencia significativa de accidentes fatales en <b>dic
 
 Estas conclusiones son esenciales para informar futuras estrategias y políticas destinadas a mejorar la seguridad vial en la Ciudad de Buenos Aires.
 <p align="center">
-    <img src= "IIMG/CONCLUSION.png"
+    <img src= "IIMG/conclusion.png"
 </p>
 <hr>
 
