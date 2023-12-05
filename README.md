@@ -58,7 +58,8 @@ La ciudad proporciona una base de datos sobre accidentes viales, accesible al p�
 
 <hr> 
 
-## ETL 🔎 - EDA 🚦[Enlace] (https://github.com/magamahae/PII_SINIESTROS-VIALES_CABA/blob/main/SRC/2_EDA.ipynb)
+## ETL 🔎 - EDA 🚦
+[enlace] (https://github.com/magamahae/PII_SINIESTROS-VIALES_CABA/blob/main/SRC/2_EDA.ipynb)
 
 
 <hr> 
@@ -85,7 +86,9 @@ Este recorrido analítico se tradujo en una visión integral, culminando con la 
 
 
 
-## **KPI** - Indicador Clave de Rendimiento 🚗💥🏍️ [Enlace] (https://github.com/magamahae/PII_SINIESTROS-VIALES_CABA/blob/main/SRC/4_KPI.ipynb)
+## **KPI** - Indicador Clave de Rendimiento 🚗💥🏍️ 
+[enlace] (https://github.com/magamahae/PII_SINIESTROS-VIALES_CABA/blob/main/SRC/4_KPI.ipynb)
+
 <hr>  
 
 ### - <b> <i>Reducir 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior</b></i>✔️
