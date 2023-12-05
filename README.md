@@ -59,7 +59,7 @@ La ciudad proporciona una base de datos sobre accidentes viales, accesible al p�
 <hr> 
 
 # ETL 🔎 - EDA 🚦
-
+[enlace](https://github.com/magamahae/PII_SINIESTROS-VIALES_CABA/blob/main/SRC/2_EDA.ipynb)
 
 <hr> 
 
@@ -107,6 +107,8 @@ Este recorrido analítico se tradujo en una visión integral, culminando con la 
 
 
 ## **KPI** - Indicador Clave de Rendimiento 🚗💥🏍️
+[enlace](https://github.com/magamahae/PII_SINIESTROS-VIALES_CABA/blob/main/SRC/4_KPI.ipynb)
+
 <hr>  
 
 ### - <b> <i>Reducir 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior</b></i>✔️
@@ -154,6 +156,7 @@ Aunque se observa una mejora en varios años, la variación negativa en <b>2021<
 <hr>
 
 ## **DASHBOARD**📊
+[enlace]
 <hr> 
 Este dashboard en Power BI ha sido diseñado de manera minuciosa y profesional con el objetivo de proporcionar una presentación visual y accesible de los resultados obtenidos en este proyecto analítico. Dirigido específicamente a la persona que nos encargó este trabajo, este recurso se erige como una herramienta esencial para comunicar de manera efectiva los hallazgos derivados del exhaustivo análisis de datos.
 
