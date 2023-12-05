@@ -21,7 +21,7 @@
 
 <hr>
 
-# **INTRODUCCION**🚻
+## **INTRODUCCION**🚻
 
 En el presente trabajo, asumí el rol de Data Analyst con el propósito de elaborar un informe de análisis de datos solicitado por el Observatorio de Movilidad y Seguridad Vial (OMSV), adscrito a la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA).
 
@@ -39,7 +39,7 @@ La superficie de la Ciudad es algo superior a los 200 km2, se agrupa en quince c
 La ciudad proporciona una base de datos sobre accidentes viales, accesible al público que abarca los años 2016 a 2021. La cual usé para mi estudio.
 <hr>
 
-# **DESARROLLO**⛔
+## **DESARROLLO**⛔
 
 <hr>
 
@@ -58,8 +58,8 @@ La ciudad proporciona una base de datos sobre accidentes viales, accesible al p�
 
 <hr> 
 
-## ETL 🔎 - EDA 🚦
-[enlace](https://github.com/magamahae/PII_SINIESTROS-VIALES_CABA/blob/main/SRC/2_EDA.ipynb)
+# ETL 🔎 - EDA 🚦
+
 
 <hr> 
 
@@ -71,13 +71,34 @@ Un paso crítico de la transformación fue la unión de las tablas HECHOS y VICT
 
 
 
-La exploración inicial de datos se sumergió en un análisis temporal, revelando 742 víctimas entre 2016 y 2021.
+La exploración inicial de datos se sumergió en un análisis temporal, revelando 753 víctimas entre 2016 y 2021.
 
 La exploración adicional de una base de datos complementaria reveló que hubo 39,200 personas lesionadas en siniestros viales que no resultaron en fatalidades. Este hallazgo resalta que aproximadamente el 1.85% de las personas involucradas en estos incidentes perdieron la vida, mientras que la gran mayoría sufrió diversas lesiones. Aunque esta base de datos adicional no fue el enfoque principal del análisis, proporcionó una comprensión más completa del contexto general de los siniestros viales. La atención principal se centró en las víctimas mortales para informar estrategias específicas de seguridad vial.
 
-A través de un enfoque geográfico utilizando Folium, se destacaron las particularidades de los siniestros viales en las 15 comunas de CABA. Se identificó la calle más riesgosa y se subrayó el impacto de los cruces en los homicidios viales, resaltando la gravedad en la Comuna 1, que  emergió como la más letal. Las avenidas se delinearon como las zonas de mayor riesgo.
+A través de un enfoque geográfico utilizando Folium, se destacaron las particularidades de los siniestros viales en las 15 comunas de CABA. 
+
+
+Se identificó la calle más riesgosa y se subrayó el impacto de los cruces en los homicidios viales.
+<p align="center">
+    <img src= "IIMG/CRUCES.png"
+</p>
+
+ Resaltando la gravedad en la <b>Comuna 1</b>, que  emergió como la más letal. 
+ <p align="center">
+    <img src= "IIMG/comuna1.png"
+</p>
+ 
+ Las avenidas se delinearon como las zonas de mayor riesgo.
+<p align="center">
+    <img src= "IIMG/AVENIDAS.png"
+</p>
 
 En el análisis detallado de las víctimas, se destacó la predominancia de hombres, siendo los motociclistas y peatones los grupos más vulnerables. Los vehículos más frecuentes en los siniestros fueron automóviles, vehículos de pasajeros y de carga.
+
+ La incidencia más significativa de víctimas en accidentes viales se registra durante las primeras horas de la mañana, específicamente entre las 5:00 y las 7:00. Este fenómeno se atribuye principalmente al desplazamiento de la población hacia sus lugares de trabajo o a la salida de establecimientos nocturnos
+<p align="center">
+    <img src= "IIMG/hora.png"
+</p>
 
 Este recorrido analítico se tradujo en una visión integral, culminando con la comparación de diversos KPIs. Estos hallazgos están destinados a guiar futuras estrategias y políticas de seguridad vial en la Ciudad de Buenos Aires.
 
@@ -85,9 +106,7 @@ Este recorrido analítico se tradujo en una visión integral, culminando con la 
 
 
 
-## **KPI** - Indicador Clave de Rendimiento 🚗💥🏍️ 
-[enlace](https://github.com/magamahae/PII_SINIESTROS-VIALES_CABA/blob/main/SRC/4_KPI.ipynb)
-
+## **KPI** - Indicador Clave de Rendimiento 🚗💥🏍️
 <hr>  
 
 ### - <b> <i>Reducir 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior</b></i>✔️
@@ -140,8 +159,12 @@ Este dashboard en Power BI ha sido diseñado de manera minuciosa y profesional c
 
 Los elementos visuales interactivos integrados en el dashboard permiten una exploración detallada de la información con tan solo un clic, ofreciendo una experiencia dinámica que facilita la comprensión de los resultados. Esta herramienta no solo condensa de manera efectiva los descubrimientos, sino que también proporciona un medio poderoso para la toma de decisiones informadas en el ámbito de la seguridad vial en la Ciudad de Buenos Aires.
 <hr>
+<p align="center">
+    <img src= "IIMG\DASH.png"
+</p>
+<hr>
 
-# **CONCLUSION**🚨
+## **CONCLUSION**🚨
 <hr> 
 Tras un exhaustivo análisis de datos sobre seguridad vial en la Ciudad de Buenos Aires, se han identificado patrones significativos que ofrecen una visión clara de los desafíos y áreas críticas. Con un total de <b>742 fallecidos</b> durante el periodo estudiado, es evidente la necesidad de estrategias específicas para mejorar la seguridad en las vías.
 
