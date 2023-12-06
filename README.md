@@ -14,15 +14,6 @@
 
 
 
-# <h1 align=center> **Siniestros Viales en CABA con víctimas fatales (2016-2021)** </h1>
-
-
-
-
-
-
-<hr>
-
 ## **INTRODUCCION**🚻
 
 En el presente trabajo, asumí el rol de Data Analyst con el propósito de elaborar un informe de análisis de datos solicitado por el Observatorio de Movilidad y Seguridad Vial (OMSV), adscrito a la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA).
