@@ -149,7 +149,7 @@ Aunque se observa una mejora en varios años, la variación negativa en <b>2021<
 <hr>
 
 ## **DASHBOARD**📊
-[enlace]
+[enlace](https://github.com/magamahae/PII_SINIESTROS-VIALES_CABA/blob/main/ACCIDENTES_PRESENTACION.pbix)
 <hr> 
 Este dashboard en Power BI ha sido diseñado de manera minuciosa y profesional con el objetivo de proporcionar una presentación visual y accesible de los resultados obtenidos en este proyecto analítico. Dirigido específicamente a la persona que nos encargó este trabajo, este recurso se erige como una herramienta esencial para comunicar de manera efectiva los hallazgos derivados del exhaustivo análisis de datos.
 
