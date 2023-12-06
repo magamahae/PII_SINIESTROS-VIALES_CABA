@@ -12,7 +12,7 @@
 
 
 
-# **Siniestros Viales en CABA con víctimas fatales (2016-2021)**
+# <h1 align=center> **Siniestros Viales en CABA con víctimas fatales (2016-2021)** </h1>
 
 
 
